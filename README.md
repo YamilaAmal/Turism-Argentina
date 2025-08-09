@@ -1,4 +1,4 @@
-# Turism-Argentina
+# Tourism-Argentina
 First team analysis for the diploma course on tourism in Argentina
 # Tourism Trend Analysis in Villa Carlos Paz
 
